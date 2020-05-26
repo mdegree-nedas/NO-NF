@@ -1,0 +1,8 @@
+----------------------------------------------------------------
+ Parameter T = 10 
+ Parameters d,h,p,s,C random generation from 10 to 20 
+ Time window demands (d_w) random generation from 10 to 20 
+ Execution time = 0.047089 sec 
+----------------------------------------------------------------
+
+
